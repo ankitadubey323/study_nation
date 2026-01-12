@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # StudyNotion - EdTech Platform
 :rocket: [Link to website][https://studynotion-frontend.vercel.app/]
@@ -131,3 +132,6 @@ Access the application in your browser at `http://localhost:3000`.
 
 
 
+=======
+# study_nation
+>>>>>>> 0c25098c465b42a012491e57a49c841a5ad1d26a
